@@ -1,0 +1,10 @@
+Here is the Nomenclature to following strictly
+
+Team_FileYouWorkOn_[Details]_Version(vXX)_Date.Extension
+Details is here optional
+
+
+Some examples:
+ConceptArt_ArtDirection_Lights_v04_010117.PSD
+Programming_PlayerMovementScript_v01_010617.CS
+GameDesign_Features_List_v03_011017.TXT
