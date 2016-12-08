@@ -1,0 +1,5 @@
+Game Design for Stonesbreaker
+
+The game will be in 2.5D with 2D environment and 3D character
+The player control the Character and reach a boss at the right of the screen
+The player will fight against the boss to defeat him
