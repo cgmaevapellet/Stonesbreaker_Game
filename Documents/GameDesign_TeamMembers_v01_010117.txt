@@ -5,6 +5,7 @@ The project will contain these following fields
 - Game design
 - Animation
 - 3D Models and Rigging/ Skinning
+- Audio
 
 The members of the teams are:
 
@@ -18,6 +19,7 @@ Game_Design_Member01
 Animation_Member01
 Models_Member01_Modeler
 Models_Member02_CharacterTD
+Audio_Member01
 
 Leads:
 Game_Art_Lead
